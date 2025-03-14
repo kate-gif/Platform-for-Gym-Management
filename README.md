@@ -25,7 +25,14 @@
 </ol>
 <h2>Data models</h2>
 <p>The database maintains a list of customers with individual information</p>
-Client: mail and powder matching
-subscription information
-
-admin: mail, password, subscription information, 
+<h3>Client:</h3>
+<ul>
+  <li>mail (include @gmail.com or something like that) and password(consist at least 7 simbols) matching</li>
+  <li>subscription information(price, client's balance)</li>
+</ul>
+<h3>Admin:</h3>
+<ul>
+  <li><mark>mail</mark></li>
+  <li>password</li>
+  <li>subscription information</li>
+</ul>
