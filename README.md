@@ -36,3 +36,5 @@
   <li>password</li>
   <li>subscription information</li>
 </ul>
+<h2>Class diagram</h2>
+<img src="https://github.com/user-attachments/assets/606642ac-19e1-42a1-b8b0-673b42f1ed4d">
